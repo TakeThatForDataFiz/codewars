@@ -22,4 +22,5 @@ Output: false
 s and t consist of lowercase English letters.
  
 
-Follow up: What if the inputs contain Unicode characters? How would you adapt your solution to such a case?
+# Follow up
+What if the inputs contain Unicode characters? How would you adapt your solution to such a case?
